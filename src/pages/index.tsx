@@ -12,7 +12,7 @@ const Home: NextPage = () => {
 
       <main className="container mx-auto flex min-h-screen flex-col items-center justify-center p-4">
         <form>
-          <button type="button" className="btn ripple">Press me</button>
+          <button type="button" className="btn">Press me</button>
         </form>
       </main>
     </>
